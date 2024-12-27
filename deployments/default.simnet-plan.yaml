@@ -59,4 +59,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/holo-nft.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: holo-rights
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/holo-rights.clar
+            clarity-version: 2
       epoch: "2.5"
