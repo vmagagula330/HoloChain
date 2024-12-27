@@ -9,3 +9,5 @@ F
 tests/holo-nft.test.ts,e/e/ee07a57a1727723636aaaa9b689e5c46cf2f0134
 J
 contracts/holo-rights.clar,b/4/b42f6cb825193b2af37e5805c843c68019529d7f
+I
+tests/holo-rights.test.ts,8/b/8b942169c286f445b7b6f76dcb02d3c7650f8daf
